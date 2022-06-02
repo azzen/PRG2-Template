@@ -1,0 +1,27 @@
+---
+BasedOnStyle: Google
+Language: Cpp
+AlignTrailingComments: true
+AlignAfterOpenBracket: Align
+AlignConsecutiveMacros: Consecutive
+AlignConsecutiveAssignments: Consecutive
+AlignConsecutiveDeclarations: Consecutive
+AlignConsecutiveBitFields: AcrossEmptyLinesAndComments
+AlignEscapedNewlines: Left
+AlignOperands: Align
+ContinuationIndentWidth: 0
+ColumnLimit: 85
+IndentWidth: 4
+AllowShortFunctionsOnASingleLine: Empty
+SortIncludes: Never
+AllowShortEnumsOnASingleLine: true
+AllowAllArgumentsOnNextLine: false
+AllowAllParametersOfDeclarationOnNextLine: false
+AllowShortIfStatementsOnASingleLine: WithoutElse
+BinPackParameters: false
+BinPackArguments: false
+KeepEmptyLinesAtTheStartOfBlocks: false
+MaxEmptyLinesToKeep: 1
+PenaltyBreakComment: 0
+Standard: Auto
+UseTab: Never
